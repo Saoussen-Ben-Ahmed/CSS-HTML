@@ -1,0 +1,51 @@
+ol,
+ul {
+  list-style: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-size: 16pt;
+  color: #00008b;
+}
+p {
+  color: #00008b;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffc0cb;
+}
+
+li a {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #00008b;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+form {
+  background-color: #ffc0cb;
+  padding: 10px;
+  width: 280px;
+}
+label {
+  margin-top: 10px;
+  display: block;
+}
+.post {
+  color: #ffc0cb;
+}
+#Hello {
+  color: #ffc0cb;
+}
